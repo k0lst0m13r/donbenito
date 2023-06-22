@@ -4,19 +4,19 @@
     background-size: cover;
     background-position:top;
     background-clip: content-box;
-    height: 1800px;
+    height: 100%;
     width: 90%;  
 }
 .titulo {
-    font-size: 5rem;
+    font-size: 5em;
     text-shadow: 5px 5px 5px antiquewhite;
 }
 .descripcion {
-    font-size: 3rem;
+    font-size: 3em;
     text-shadow: 3px 3px 3px antiquewhite; 
 }
 p {
-    font-size: 2rem;
+    font-size: 2em;
     text-shadow: 3px 3px 3px antiquewhite;
     font-weight: 600;
 }
