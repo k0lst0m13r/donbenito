@@ -16,7 +16,7 @@
     text-shadow: 3px 3px 3px rgb(90, 252, 3); 
 }
 p {
-    font-size: 150%;
+    font-size: 120%;
     text-shadow: 3px 3px 3px rgb(90, 252, 3);
     font-weight: 600;
 }
@@ -37,7 +37,7 @@ p {
         font-size: small;
     }
     .titulo {
-        font-size: 170%;
+        font-size: 180%;
         
     }
     #redes {
@@ -50,7 +50,7 @@ p {
         text-shadow: 3px 3px 3px rgb(90, 252, 3); 
     }
     p {
-        font-size: 150%;
+        font-size: 130%;
         text-shadow: 3px 3px 3px rgb(90, 252, 3);
         font-weight: 600;
     }
