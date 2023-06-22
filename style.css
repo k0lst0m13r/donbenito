@@ -9,15 +9,15 @@
 }
 .titulo {
     font-size: 400%;
-    text-shadow: 3px 3px 3px antiquewhite;
+    text-shadow: 3px 3px 3px rgb(90, 252, 3);
 }
 .descripcion {
    font-size: 300%;
-    text-shadow: 3px 3px 3px antiquewhite; 
+    text-shadow: 3px 3px 3px rgb(90, 252, 3); 
 }
 p {
     font-size: 150%;
-    text-shadow: 3px 3px 3px antiquewhite;
+    text-shadow: 3px 3px 3px rgb(90, 252, 3);
     font-weight: 600;
 }
 
@@ -43,15 +43,15 @@ p {
     #redes {
         margin-top: 100%;
         padding-top: 20%;
-        text-shadow: 3px 3px 3px antiquewhite;
+        text-shadow: 3px 3px 3px rgb(90, 252, 3);
     }
     .descripcion {
         font-size: 130%;
-        text-shadow: 3px 3px 3px antiquewhite; 
+        text-shadow: 3px 3px 3px rgb(90, 252, 3); 
     }
     p {
-        font-size: 100%;
-        text-shadow: 3px 3px 3px antiquewhite;
+        font-size: 150%;
+        text-shadow: 3px 3px 3px rgb(90, 252, 3);
         font-weight: 600;
     }
   }
