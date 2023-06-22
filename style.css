@@ -4,26 +4,49 @@
     background-size: cover;
     background-position:top;
     background-clip: content-box;
-    height: 100%;
-    width: 90%;  
+    height: 1800px;
+    
 }
 .titulo {
-    font-size: 5em;
+    font-size: 400%;
     text-shadow: 5px 5px 5px antiquewhite;
 }
 .descripcion {
-    font-size: 3em;
+   font-size: 300%;
     text-shadow: 3px 3px 3px antiquewhite; 
 }
-p {
-    font-size: 2em;
-    text-shadow: 3px 3px 3px antiquewhite;
-    font-weight: 600;
-}
+
 #redes {
-    margin-top: 90%;
+    margin-top: 100%;
+    padding-top: 10%;
 }
 .icon {
     border-radius: 100%;
     border: solid 3px antiquewhite;
 }
+@media only screen and (max-width: 600px) {
+    #main {
+      height: 750px;
+    }
+    .descripcion {
+        font-size: small;
+    }
+    .titulo {
+        font-size: 170%;
+        
+    }
+    #redes {
+        margin-top: 100%;
+        padding-top: 20%;
+        text-shadow: 3px 3px 3px antiquewhite;
+    }
+    .descripcion {
+        font-size: 130%;
+        text-shadow: 3px 3px 3px antiquewhite; 
+    }
+    p {
+        font-size: 100%;
+        text-shadow: 3px 3px 3px antiquewhite;
+        font-weight: 600;
+    }
+  }
