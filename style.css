@@ -9,11 +9,16 @@
 }
 .titulo {
     font-size: 400%;
-    text-shadow: 5px 5px 3px antiquewhite;
+    text-shadow: 3px 3px 3px antiquewhite;
 }
 .descripcion {
    font-size: 300%;
     text-shadow: 3px 3px 3px antiquewhite; 
+}
+p {
+    font-size: 150%;
+    text-shadow: 3px 3px 3px antiquewhite;
+    font-weight: 600;
 }
 
 #redes {
